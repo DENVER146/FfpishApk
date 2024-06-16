@@ -1,8 +1,8 @@
-# EDIT DEX FILE 
-![img]([http://url/to/img.png](https://raw.githubusercontent.com/DENVER146/FfpishApk/main/IMG_20240616_154107.jpg))
-## Search "nukeToken" and replace with telegram bot token then replace "nukeChat" with chat id
 
-Here's a revised disclaimer that emphasizes the lack of responsibility for any misuse:
+
+# EDIT DEX FILE 
+![img](https://raw.githubusercontent.com/DENVER146/FfpishApk/main/IMG_20240616_154107.jpg)
+## Search "nukeToken" and replace with telegram bot token then replace "nukeChat" with chat id
 
 ---
 
